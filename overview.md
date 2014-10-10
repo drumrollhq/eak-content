@@ -1,6 +1,7 @@
 # Content Overview
 
-**How this document works:** Each item is a part of the game. The
+### How this document works:
+Each item is a part of the game. The
 highest level are broad topics, which go all the way down to individual
 levels at the lowest level. After each item, there's a marker to show
 the status of that part of the project. The markers are:
@@ -19,6 +20,8 @@ the status of that part of the project. The markers are:
 
 If there's no status next to an entry, it means that we'll be working on
 it soon but haven't got anything figured out yet.
+
+### Content Overview
 
 - [Setting the scene](sections/01-intro/overview.md) - probably split this over a couple of cutscenes
   - Where is the game set - *planned*
