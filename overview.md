@@ -1,6 +1,6 @@
 # Content Overview
 
-- Setting the scene
+- Setting the scene - probably split this over a couple of cutscenes
   - Where is the game set
   - What's going on? Why?
   - Who/what is Arca?
@@ -25,6 +25,10 @@
     - Links - `<a href="..."></a>`
     - Images - `<img src="...">` - why no closing tag?
     - Image width - `<img src="..." width="...">`
+  - Semantic Attributes - *maybe*
+    - OMG it's like semantic tags and attributes had a baby!
+    - `<time datetime="..."> </time>`
+  - Consolidation
 - CSS Basics
 - Advanced HTML
 
