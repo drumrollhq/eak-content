@@ -1,4 +1,4 @@
 eak-content
 ===========
 
-E.A.K. content and levels
+E.A.K. content and levels. Start by reading [the overview](overview.md).
