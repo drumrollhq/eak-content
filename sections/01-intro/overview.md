@@ -1,2 +1,4 @@
 # 1: Intro - Overview
-TODO
+
+Cutscenese covering the basics at the start of the game.
+TODO: Expand upon this
