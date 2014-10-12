@@ -9,6 +9,7 @@ the status of that part of the project. The markers are:
 * *future* - this will be covered in the future, but we're unable to
     look into it now.
 * *maybe* - We may or may not include this.
+* *discuss* - needs a load more thinking before we can move forward
 * *planned* - we know what we're doing, but nothing about how
 * *draft* - we have a draft of this content written
 * *poc* - we've got a proof-of-concept level to test the content out
@@ -21,6 +22,20 @@ the status of that part of the project. The markers are:
 If there's no status next to an entry, it means that we'll be working on
 it soon but haven't got anything figured out yet.
 
+Throughout this, you might come across little diagrams like this:
+```
+    ________________________
+    |A                     |
+   1|======             k  |
+    |P k               ====|2
+   3|====                  |
+    |______________________|
+```
+
+These are little sketches of possible level layouts. Here, `A` is the
+start position of Arca, `k` is the location of a kitten, and `P` is the
+location of a portal.
+
 ### Content Overview
 
 - [Setting the scene](sections/01-intro/overview.md) - probably split
@@ -29,12 +44,17 @@ it soon but haven't got anything figured out yet.
   - What's going on? Why? - *planned*
   - Who/what is Arca? - *planned*
 - [Using the game](sections/02-tutorial/overview.md)
-  - Moving about - *published*
-  - Jumping - *published*
-  - Portals / doors - *published*
+  - [Moving about](sections/02-tutorial/01-control-arca.md) -
+      *published*
+  - Jumping - *published* - *[merged with Moving About]*
+  - [Portals / doors](sections/02-tutorial/02-using-portals.md) -
+      *published*
   - Using the map - *future*
   - Quickly getting from place to place - *future*
-  - Using the Editor
+  - [Editing levels](sections/02-tutorial/03-editing-levels.md) -
+      *draft*
+  - [Using the Editor and tutorial
+      system](sections/02-tutorial/04-editor-tuts.md)
 - [HTML Basics](sections/03-html-basics/overview.md):
   - What is HTML? Why does it exist?
   - HTML Structure - `<open> contennt </close>`
