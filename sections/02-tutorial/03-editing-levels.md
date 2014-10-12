@@ -11,6 +11,7 @@ people and get them to change something without them getting lost.
 * There are two ledges either side of the level, with a gap between
     them. Arce is on one side, and the kitten and portal are on the
     other:
+
     ```
         ______________________
         |                    |
