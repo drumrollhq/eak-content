@@ -13,4 +13,5 @@ to teach:
 2. [Editing text I](03-editing-levels.md#level---editing-text-i) - *draft*
 3. [play](03-editing-levels.md#level---play) - *draft*
 4. [Editing text II](03-editing-levels.md#level---editing-text-ii) - *draft*
+4. [Editing text III](03-editing-levels.md#level---editing-text-iii) - *draft*
 

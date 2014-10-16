@@ -21,7 +21,7 @@ And be able to write the correct `<p> hello </p>`.
 At this stage, they do not need to know more than one type of HTML element.
 
 ## Draft
-### Level - Create an element
+### Level - Creating elements I
 ```
     _____________________
     | A                 |

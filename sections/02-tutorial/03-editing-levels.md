@@ -7,8 +7,8 @@ break it down to an extent.
 Not being overwhelming here is hard - we need to show that edit view to
 people and get them to change something without them getting lost.
 
-### Draft
-#### Level - Editing Text I
+## Draft
+### Level - Editing Text I
 * There are two ledges either side of the level, with a gap between
     them. Arce is on one side, and the kitten and portal are on the
     other:
@@ -34,7 +34,7 @@ people and get them to change something without them getting lost.
 * In this level, there is no mention of the fact that what is being
     edited is HTML
 
-#### Level - play
+### Level - play
 The next level the user comes to doesn't involve any coding. Something
 like:
 ```
@@ -46,7 +46,7 @@ like:
     |__________________|
 ```
 
-#### Level - Editing Text II
+### Level - Editing Text II
 The level after that has a layout like this:
 ```
     ____________________
@@ -60,7 +60,22 @@ The level after that has a layout like this:
 Here, the player has to make ledge 2 longer in order to be able to jump
 from ledge 1 to ledge 2, then from ledge 2 to ledge 3.
 
-In both of these levels, there is a restricted, locked down version of
+### Level - Editing Text III
+Removing text, rather than adding it:
+```
+    _______________
+    |             |
+    | P k         |
+    |=====        |
+    |=====        |
+   1|=====        |
+    |=====    A   |
+    |===== =======|
+```
+
+Removing text from block 1 makes it smaller, raising up the floor that Arca is standing on
+
+In all of these levels, there is a restricted, locked down version of
 the editor being used. Only the contents of the ledges is editable - the
 tags etc. are not.
 
