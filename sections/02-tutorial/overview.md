@@ -9,8 +9,8 @@ to teach:
 - [Using the editor and tutorials](04-editor-tuts.md)
 
 ## Levels
-1. [Controlling arca](01-control-arc.md) - *published*
-2. [Editing text I](02-editing-text.md#level-editing-text-i) - *draft*
-3. [play](02-editing-text.md#level-play) - *draft*
-4. [Editing text II](02-editing-text.md#level-editing-text-ii) - *draft*
+1. [Controlling arca](01-control-arca.md) - *published*
+2. [Editing text I](03-editing-levels.md#level---editing-text-i) - *draft*
+3. [play](03-editing-levels.md#level---play) - *draft*
+4. [Editing text II](03-editing-levels.md#level---editing-text-ii) - *draft*
 
