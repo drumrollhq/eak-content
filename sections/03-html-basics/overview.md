@@ -1,2 +1,9 @@
 # 3: HTML Basics - Overview
-TODO
+
+In this section, we will cover the basics of HTML. We will cover the
+following:
+* [What is HTML? Why does it exist](01-what-is-html.md)
+* [The anatomy of a HTML element](02-html-anatomy.md)
+* [Semantic tags](03-semantic-tags.md)
+* [Attributes](04-attributes.md)
+* [Semantic Attributes](05-semantic-attributes.md)

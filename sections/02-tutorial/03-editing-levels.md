@@ -8,6 +8,7 @@ Not being overwhelming here is hard - we need to show that edit view to
 people and get them to change something without them getting lost.
 
 ### Draft
+#### Level - Editing Text I
 * There are two ledges either side of the level, with a gap between
     them. Arce is on one side, and the kitten and portal are on the
     other:
@@ -33,17 +34,19 @@ people and get them to change something without them getting lost.
 * In this level, there is no mention of the fact that what is being
     edited is HTML
 
+#### Level - play
 The next level the user comes to doesn't involve any coding. Something
 like:
 ```
     ____________________
-    |      k           |
-    |     ===   k   ===|
+    |      k         P |
+    | A   ===   k   ===|
     |===       ===     |
     |                  |
     |__________________|
 ```
 
+#### Level - Editing Text II
 The level after that has a layout like this:
 ```
     ____________________
