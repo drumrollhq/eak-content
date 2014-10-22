@@ -41,3 +41,54 @@ Here, the user needs to create two extra ledges in order to reach the kitten and
 
 For the next element, the user is 'on their own' - although help should be available if needed.
 
+### Level - Play I
+A simple level that doesn't need much coding
+
+TODO
+
+### Level - Creating Elements II
+```
+    _____________________
+    |               k P |
+    |              =====|
+    |               k   |
+    |           ========|
+    |               k   |
+    | A                 |
+    |===================|
+    |___________________|
+```
+
+In this level, the player needs to create an extra element to complete the set of stairs and reach the kittens and portal.
+
+### Level - Glitch setup
+In code fixing levels, there are glitches all over the levels. I'm not sure what these look like yet. Perhaps they're sort of like black holes that consume your source code if you touch them, or something like that. Glitches are caused by errors in your code.
+
+In this level, there's no coding and not much of a puzzle either. There's simply a bridge across some gap with a character who explains that the bridges ahead have been shoddily constructed or sabotaged by E.A.K. In order to cross the bridges, you'll need to fix the errors that are causing the glitches.
+
+### Level - Glitch I
+```
+    _________________
+    |               |
+    | A    ggg g k P|
+    |=== ==gg=g= ===|
+    |    g   g gg   |
+    |_______________|
+```
+
+In this level, glitches caused by errors in the levels code stop Arca from being able to cross the level. The code looks like this:
+
+```html
+  <p> Hello
+```
+
+Once the code is fixed, the glitches go away and Arca can safely cross the bridge.
+
+### Level - Glitch II-IV
+These levels have the same layout as Glitch I. However, in these, the broken code is as follows:
+
+```html
+  <p> Hello <p>
+  <p< hello </p>
+  <p> hello <p/>
+```

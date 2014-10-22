@@ -32,9 +32,7 @@ Throughout this, you might come across little diagrams like this:
     |______________________|
 ```
 
-These are little sketches of possible level layouts. Here, `A` is the
-start position of Arca, `k` is the location of a kitten, and `P` is the
-location of a portal.
+These are little sketches of possible level layouts. Here, `A` is the start position of Arca, `k` is the location of a kitten, and `P` is the location of a portal.
 
 ### Content Overview
 
@@ -44,20 +42,16 @@ location of a portal.
   - What's going on? Why? - *planned*
   - Who/what is Arca? - *planned*
 - [Using the game](sections/02-tutorial/overview.md)
-  - [Moving about](sections/02-tutorial/01-control-arca.md) -
-      *published*
+  - [Moving about](sections/02-tutorial/01-control-arca.md) - *published*
   - Jumping - *published* - *[merged with Moving About]*
-  - [Portals / doors](sections/02-tutorial/02-using-portals.md) -
-      *published*
+  - [Portals / doors](sections/02-tutorial/02-using-portals.md) - *published*
   - Using the map - *future*
   - Quickly getting from place to place - *future*
-  - [Editing levels](sections/02-tutorial/03-editing-levels.md) -
-      *draft*
-  - [Using the Editor and tutorial
-      system](sections/02-tutorial/04-editor-tuts.md)
+  - [Editing levels](sections/02-tutorial/03-editing-levels.md) - *draft*
+  - [Using the Editor and tutorial system](sections/02-tutorial/04-editor-tuts.md)
 - [HTML Basics](sections/03-html-basics/overview.md):
-  - What is HTML? Why does it exist?
-  - HTML Structure - `<open> contennt </close>`
+  - [What is HTML? Why does it exist?](sections/03-html-basics/01-what-is-html.md) - *todo*
+  - [HTML Structure - `<open> content </close>`](sections/03-html-basics/02-html-anatomy.md) - *draft*
   - Semantic tags:
     - What are they? Can we think of a better word than 'semantic'? Why
         do we use semantic tags?

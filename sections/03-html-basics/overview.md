@@ -9,4 +9,11 @@ following:
 * [Semantic Attributes](05-semantic-attributes.md)
 
 ## Levels
-1. [Creating Elements I](02-html-anatomy.md#level---creating-elements-i) - *draft*
+1. [creating elements i](02-html-anatomy.md#level---creating-elements-i) - *draft*
+2. [play](02-html-anatomy.md#level---play-i) - *todo*
+3. [creating elements ii](02-html-anatomy.md#level---creating-elements-ii) - *draft*
+4. [glitch setup](02-html-anatomy.md#level---glitch-setup) - *draft*
+5. [glitch i](02-html-anatomy.md#level---glitch-i) - *draft*
+6. [glitch ii](02-html-anatomy.md#level---glitch-ii-iv) - *draft*
+7. [glitch iii](02-html-anatomy.md#level---glitch-ii-iv) - *draft*
+8. [glitch iv](02-html-anatomy.md#level---glitch-ii-iv) - *draft*
