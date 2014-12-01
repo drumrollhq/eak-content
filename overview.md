@@ -42,8 +42,7 @@ These are little sketches of possible level layouts. Here, `A` is the start posi
   - What's going on? Why? - *planned*
   - Who/what is Arca? - *planned*
 - [Using the game](sections/02-tutorial/overview.md)
-  - [Moving about](sections/02-tutorial/01-control-arca.md) - *published*
-  - Jumping - *published* - *[merged with Moving About]*
+  - [Moving about](sections/02-tutorial/01-control-arca.md) - *planned*
   - [Portals / doors](sections/02-tutorial/02-using-portals.md) - *published*
   - Using the map - *future*
   - Quickly getting from place to place - *future*

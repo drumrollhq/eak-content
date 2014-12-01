@@ -1,5 +1,8 @@
 # Levels
 1. [Controlling arca](sections/02-tutorial/01-control-arca.md) - *published*
+1. [jump lengths](sections/02-tutorial/01-control-arca.md#level---jump-lengths) - *draft*
+1. play level
+1. find the cape
 1. [Editing text I](sections/02-tutorial/03-editing-levels.md#level---editing-text-i) - *draft*
 1. [play](sections/02-tutorial/03-editing-levels.md#level---play) - *draft*
 1. [Editing text II](sections/02-tutorial/03-editing-levels.md#level---editing-text-ii) - *draft*
@@ -12,3 +15,4 @@
 1. [glitch ii](sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv) - *draft*
 1. [glitch iii](sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv) - *draft*
 1. [glitch iv](sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv) - *draft*
+1. We reach ponyhead bay. Arca goes and finds a replacement Monocle for cecil. As a reward, the Oracle awards Arca with the customisable assistant, and tells Arca where to go next. END OF FREE LEVELS!?

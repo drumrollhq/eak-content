@@ -27,3 +27,7 @@ Changing this level is pretty low priority, but something we should do
 eventually. We should split it up into maybe 2 or 3 to give people a
 chance to practice the skills they're learning.
 
+### Level - Jump Lengths
+In this level, the player is presented with a gap that can only be
+crossed with a long-jump.
+
