@@ -11,39 +11,18 @@ digraph {
   node[penwidth = 0.5];
   // edge[color="#808080"];
 
-  // Level links
-  node[fontcolor = "#0000FF"];
-  "Glitch I"[href="sections/03-html-basics/02-html-anatomy.md#level---glitch-i"]
-  "Controlling Arca"[href="sections/02-tutorial/01-control-arca.md"]
-  "Jump Lengths"[href="sections/02-tutorial/01-control-arca.md#level---jump-lengths"]
-  "Editing Text I"[href="sections/02-tutorial/03-editing-levels.md#level---editing-text-i"]
-  "Swamp play"[href="sections/02-tutorial/03-editing-levels.md#level---play"]
-  "Editing Text II"[href="sections/02-tutorial/03-editing-levels.md#level---editing-text-ii"]
-  "Editing Text III"[href="sections/02-tutorial/03-editing-levels.md#level---editing-text-iii"]
-  "Space play"[href="sections/03-html-basics/02-html-anatomy.md#level---play-i"]
-  "Creating elements I"[href="sections/03-html-basics/02-html-anatomy.md#level---creating-elements-i"]
-  "Creating elements II"[href="sections/03-html-basics/02-html-anatomy.md#level---creating-elements-ii"]
-  "Glitch setup"[href="sections/03-html-basics/02-html-anatomy.md#level---glitch-setup"]
-  "Glitch I"[href="sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv"]
-  "Glitch II"[href="sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv"]
-  "Glitch III"[href="sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv"]
-  "Glitch IV"[href="sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv"]
-  node[fontcolor = "#000000"];
-
   // Level and scene layout
   subgraph cluster_scrapyard {
-    label="Scrapyard"
+    label="Scrapyard & Canyon"
     "Controlling Arca"
-    -> "Jump Lengths"
-    -> "Scrapyard play level"
-    -> "find the cape"
+    -> "Jump Lengths & find the cape"
+    -> "Editing Text I"
+    -> "Cave entrance"
   }
 
-  subgraph cluster_swamp {
-    label = "Swamp"
-    "find the cape"
-    -> "Editing Text I"
-    -> "Swamp play"
+  subgraph cluster_cave {
+    label = "Cave"
+    "Cave entrance"
     -> "Editing Text II"
     -> "Editing Text III"
     -> "Introduce portal"
