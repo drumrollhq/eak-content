@@ -1,18 +1,18 @@
 # Levels
-1. [Controlling arca](sections/02-tutorial/01-control-arca.md) - *published*
-1. [jump lengths](sections/02-tutorial/01-control-arca.md#level---jump-lengths) - *draft*
-1. play level
-1. find the cape
-1. [Editing text I](sections/02-tutorial/03-editing-levels.md#level---editing-text-i) - *draft*
-1. [play](sections/02-tutorial/03-editing-levels.md#level---play) - *draft*
-1. [Editing text II](sections/02-tutorial/03-editing-levels.md#level---editing-text-ii) - *draft*
-1. [Editing text III](sections/02-tutorial/03-editing-levels.md#level---editing-text-iii) - *draft*
-1. [Creating elements I](sections/03-html-basics/02-html-anatomy.md#level---creating-elements-i) - *draft*
-1. [play](02-html-anatomy.md#level---play-i) - *todo*
-1. [creating elements ii](sections/03-html-basics/02-html-anatomy.md#level---creating-elements-ii) - *draft*
-1. [glitch setup](sections/03-html-basics/02-html-anatomy.md#level---glitch-setup) - *draft*
-1. [glitch i](sections/03-html-basics/02-html-anatomy.md#level---glitch-i) - *draft*
-1. [glitch ii](sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv) - *draft*
-1. [glitch iii](sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv) - *draft*
-1. [glitch iv](sections/03-html-basics/02-html-anatomy.md#level---glitch-ii-iv) - *draft*
-1. We reach ponyhead bay. Arca goes and finds a replacement Monocle for cecil. As a reward, the Oracle awards Arca with the customisable assistant, and tells Arca where to go next. END OF FREE LEVELS!?
+1. [Scrapyard & cave - tutorial](sections/01-scrapyard/index.md)
+  1. [Controlling Arca](sections/01-scrapyard/1.1-control-arca.md) *complete*
+  2. [Jumping](sections/01-scrapyard/1.2-jumping.md) *needs story*
+  3. [Editing Text I](sections/01-scrapyard/1.3-editing-text-i.md) *needs lc* *needs vo*
+  4. [Cave entrance](sections/01-scrapyard/1.4-cave-entrance.md) *needs impl*
+  5. [Editing Text II](sections/01-scrapyard/1.5-editing-text-ii.md) *needs lc* *needs artwork* *needs impl* *needs vo*
+  6. [Portals](sections/01-scrapyard/1.6-portals.md) *needs artwork* *needs lc* *needs vo*
+2. [Spaceship - Editing Text](sections/02-spaceship/index.md)
+  1. [Meet Tarquin](sections/02-spaceship/2.1-meet-tarquin.md) *needs impl* *needs story* *needs vo*
+  2. [Creating Elements I](sections/02-spaceship/2.2-creating-elements-i.md) *needs lc* *needs 
+  3. [Creating Elements II](sections/02-spaceship/2.3-creating-elements-ii.md) *needs lc*
+  4. [Glitch Access](sections/02-spaceship/2.4-glitch-access.md)
+  5. [Glitch I](sections/02-spaceship/2.5-2.8-glitch-i.md)
+  6. [Glitch II](sections/02-spaceship/2.5-2.8-glitch-i.md)
+  7. [Glitch III](sections/02-spaceship/2.5-2.8-glitch-i.md)
+  8. [Glitch IV](sections/02-spaceship/2.5-2.8-glitch-i.md)
+  9. [Tarquin's Office](sections/02-spaceship/2.9-tarquins-office.md)

@@ -1,0 +1,37 @@
+digraph {
+  // use $ dot -Tsvg -o scenes.svg scenes.dot
+  // or  $ dot -Tpng -o scenes.png scenes.dot && open scenes.png
+  graph[concentrate = true];
+  // graph[rankdir=LR];
+  graph[fontsize = 14];
+  graph[fontname = "Helvetica"];
+  node[fontsize = 11];
+  node[fontname = "Helvetica"];
+  node[shape=rect, style=rounded];
+  node[penwidth = 0.5];
+
+  "Arca jumps off cliff"
+  -> "Saved by Lao, riding Cecil"
+  -> "Lao: blah blah In my day, we would have used code, and not jumped off cliffs blah blah"
+  -> {
+    "Arca: who are you blah blah"
+    "Arca: what the newt is code?"
+  }
+
+  "Arca: who are you blah blah"
+  -> "Lao: blah intro blah"
+  -> "Arca: what the newt is code?"
+
+  "Arca: what the newt is code?"
+  -> "Lao: code is blah blah..."
+  -> "Lao: let me show you. Concentrate on the ledge"
+  -> "Arca concentrates. The user completes the first coding exercise"
+  -> "Arca: woo, code, etc"
+  -> {
+    "(if not already asked): Who are you?"
+    "What brings you here?"
+    "Can you teach me more code?"
+  }
+  -> "Answer as many questions as the player wants"
+  -> "Once 'can you teach me more code' is dealt with, the player can move on"
+}
