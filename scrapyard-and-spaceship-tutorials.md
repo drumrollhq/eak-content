@@ -41,22 +41,24 @@
 - Looking good.
 
 # 2.3
-- Before we go on, I need to explain something. Just cause you're a newbie. Yay, theory lessons... 
-- When you're writing code, you're writing instructions that a computer will follow exactly.
-- Code is your paintbrush for the Internet Universe. If you know enough code, you can create anything you want.
-- Turns out you've been writing a type of code called HTML this whole time.
-- HTML is the coding language used to create almost everything on the web.
-- This language is made of building blocks called 'tags'.
-- This is an opening p tag, and this is a closing p tag. Together, they make a p 'element'.
-- The names of the opening and closing tags always have to match.
-- Phew! Glad that's over with. Did you get all that?
+- Animation:
+  - Before we go on, I need to explain something. Just cause you're a newbie. Yay, theory lessons... 
+  - When you're writing code, you're writing instructions that a computer will follow exactly.
+  - Code is your paintbrush for the Internet Universe. If you know enough code, you can create anything you want.
+  - Turns out you've been writing a type of code called HTML this whole time.
+  - HTML is the coding language used to create almost everything on the web.
+  - This language is made of building blocks called 'tags'.
+  - This is an opening p tag, and this is a closing p tag. Together, they make a p 'element'.
+  - The names of the opening and closing tags always have to match.
+  - Phew! Glad that's over with. Did you get all that?
 
-- You need another box like before - so create a P element by following the pattern from last time
-- If you can't remember how to write the p element for the box, go back to the ones you just made, and look at the code you wrote there.
-- OK, start with a `<p>` opening tag.
-- Next, write something - make sure it's long enough!
-- Finish of with a `</p>` closing tag.
-- You're actually getting the hang of this!
+- Tutorial:
+  - You need another box like before - so create a P element by following the pattern from last time
+  - If you can't remember how to write the p element for the box, go back to the ones you just made, and look at the code you wrote there.
+  - OK, start with a `<p>` opening tag.
+  - Next, write something - make sure it's long enough!
+  - Finish of with a `</p>` closing tag.
+  - You're actually getting the hang of this!
 
 #2.5
 - Right! Let's get these engine's fixed
